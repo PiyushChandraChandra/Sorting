@@ -8,3 +8,15 @@ All the Sorting algorithms in one c program. I have never seen a proper program 
 [<img align="left" alt="PiyushChandraChandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PiyushChandraChandra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PiyushChandraChandra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: http://piyush.decorkaro.com/
+[profile]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
+[video]: https://www.youtube.com/c/piyushchandrachandra
+[twitter]: https://twitter.com/PiyushHighlight
+[youtube]: https://www.youtube.com/c/piyushchandrachandra
+[instagram]: https://www.instagram.com/piyushhighlight/
+[linkedin]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
+[webdevplaylist]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
+[jsplaylist]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
+[cssplaylist]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
+[reactplaylist]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
